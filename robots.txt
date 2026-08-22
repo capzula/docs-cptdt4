@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-iq4wai.epipennsylvania.com/sitemap.xml
